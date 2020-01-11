@@ -1,6 +1,9 @@
-Nothing important
+
 
 =======Rozdział I=======
 
+Git jest systemem kontroli wersji
+pozwala na zdalne pracowanie z dokumentami 
+oraz kodem.
 
-pitupitu
+git int - inicjalizacja repozytorium
